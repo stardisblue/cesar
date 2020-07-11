@@ -1,0 +1,11 @@
+{
+  "name": "cesar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:stardisblue/cesar.git",
+  "author": "stardisblue <stardisblue@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  }
+}
